@@ -1,0 +1,9 @@
+Lau Yong Heng,lyh123,Male,Manager
+hello,hello123,Male,Technician
+JE321,je321,Female,Technician
+LWJ04,lwj04,Male,Manager
+LYH123,123,Male,Manager
+123,123,Male,Technician
+Brian,321,Male,Manager
+efqrg,123,Female,User
+1,1,Male,User
